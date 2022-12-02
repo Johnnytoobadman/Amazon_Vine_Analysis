@@ -102,3 +102,4 @@ challenge_schema.sql
 
 ## SUMMARY
 
+### The percentage of unpaid vine reviews at 52_+% is amazing.  This makes a strong statement that the unpaid reviews are real and the paid reviews are not biasing the data.  If the paid reviews were biasing the data they would be around 70% or 80% of the total reviews.  We would like to see the number of unpaid reviews higher but anything in the 50 percentile shows that there is a strong case to accept the positive reviews.
